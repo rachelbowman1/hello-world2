@@ -7,6 +7,7 @@ import java.util.Date;
 public class HelloWorld {
     public static void main (String[] args) {
         System.out.println("Hello world!");
+        System.out.println("With any luck, this 2nd attempt will be more successful than the first.");
         System.out.println(new Date());
     }
 }
